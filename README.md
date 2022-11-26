@@ -11,4 +11,6 @@ Created:
 
 -REACT: To do list application where you can view most important tasks, add tasks with a date and title, remove tasks and save them for later on.
 
+-React Ecommerce app where you can create your own list of products saved to a database (Using Mern stack)
+
 
