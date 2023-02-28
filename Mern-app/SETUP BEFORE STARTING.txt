@@ -1,0 +1,14 @@
+localhost:4000
+
+To start the server and compile:
+
+npm run dev
+
+
+Open MongoDB to check updated database:
+
+https://cloud.mongodb.com/v2/6362efab9c06541b099df18a#clusters/detail/MERNapp
+
+
+Use POSTMAN to send requests.
+
